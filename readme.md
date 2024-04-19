@@ -132,7 +132,7 @@
 <br/>
 <br/>
 <p align="center">
-  ⌨️ Feito com 💜 by <a href="https://web.dio.me/">DIO</a>
+  ⌨️ Feito com 💜 by <a href="https://portfolioalxdelira.vercel.app/">🖖 AlxDelira</a>
 </p>
 
 <br />
