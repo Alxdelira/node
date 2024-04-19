@@ -132,7 +132,7 @@
 <br/>
 <br/>
 <p align="center">
-  ⌨️ Feito com 💜 by DIO
+  ⌨️ Feito com 💜 by <a href="https://web.dio.me/">DIO</a>
 </p>
 
 <br />
