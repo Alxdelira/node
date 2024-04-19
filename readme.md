@@ -139,7 +139,7 @@
 <br />
 
 <p align="center">
-  <a href="https://www.dio.me/" target="_blank">
+  <a href="https://portfolioalxdelira.vercel.app/" target="_blank">
     <img align="center" src="./.github/assets/footer.png" alt="banner"/>
   </a>
 </p>

@@ -95,7 +95,7 @@ Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 <br />
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://portfolioalxdelira.vercel.app/" target="_blank">
     <img align="center" src="../.github/assets/footer.png" alt="banner"/>
   </a>
 </p>
